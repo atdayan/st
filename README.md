@@ -28,3 +28,10 @@ Customization
 The default configuration is `config.def.h`. To make changes, edit the
 generated `config.h` file. After the customizations are done, rebuild the
 project as instructed in the previous section.
+
+Patches
+---
+The following patches were applied:
+* [alpha](https://st.suckless.org/patches/alpha/st-alpha-osc11-20220222-0.8.5.diff)
+* [changealpha](https://st.suckless.org/patches/changealpha/st-changealpha-20230519-b44f2ad.diff)
+* [hidecursor](https://st.suckless.org/patches/hidecursor/st-hidecursor-0.8.3.diff)
