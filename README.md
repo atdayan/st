@@ -34,4 +34,5 @@ Patches
 The following patches were applied:
 * [alpha](https://st.suckless.org/patches/alpha/st-alpha-osc11-20220222-0.8.5.diff)
 * [changealpha](https://st.suckless.org/patches/changealpha/st-changealpha-20230519-b44f2ad.diff)
+* [font2](https://st.suckless.org/patches/font2/st-font2-0.8.5.diff)
 * [hidecursor](https://st.suckless.org/patches/hidecursor/st-hidecursor-0.8.3.diff)
